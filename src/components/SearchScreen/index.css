@@ -1,0 +1,13 @@
+.bg-pic {
+    width: 25%;
+    border-radius: 50%;
+}
+.width-70 {
+    width: 70%;
+}
+.no-underline {
+    text-decoration: none;
+}
+.text-center {
+    text-align: center;
+}
